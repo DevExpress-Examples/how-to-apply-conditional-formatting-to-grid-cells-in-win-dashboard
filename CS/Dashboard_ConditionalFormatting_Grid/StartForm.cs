@@ -1,16 +1,21 @@
-﻿using System;
+﻿using DevExpress.XtraEditors;
+using System;
 using System.Windows.Forms;
 
 namespace Grid_FormatRules {
-    public partial class StartForm : Form {
+    public partial class StartForm : XtraForm {
         public StartForm() {
             InitializeComponent();
             listBoxControl1.Items.AddEnum<CFRules>();
         }
 
         private void simpleButton1_Click(object sender, EventArgs e) {
+            OpenForm();
+        }
+
+        private void OpenForm() {
             CFRules demo = (CFRules)listBoxControl1.SelectedItem;
-            switch(demo) {
+            switch (demo) {
                 case CFRules.BarColorRanges:
                     new RangeColorBarConditionForm().ShowDialog();
                     break;
@@ -41,7 +46,7 @@ namespace Grid_FormatRules {
         }
 
         private void listBoxControl1_DoubleClick(object sender, EventArgs e) {
-            simpleButton1_Click(listBoxControl1, e);
+            OpenForm();
         }
     }
 
