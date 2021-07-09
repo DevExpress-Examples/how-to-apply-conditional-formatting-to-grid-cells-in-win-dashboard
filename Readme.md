@@ -16,7 +16,7 @@ The following example shows how to apply conditional formatting to Grid cells.
 
 ## Examples Structure
 
-The example opens the start form that allows you to invoke a form for the selected format rule.
+When you launch the example, you see the start form that allows you to invoke a form for the selected format rule. Select the rule and click **Show** to view how the format rule applies.
 
 ### Value
 
