@@ -111,5 +111,4 @@ This example shows how to apply conditional formatting to Grid cells using the p
 * [How to Apply Conditional Formatting to Pivot Cells](https://github.com/DevExpress-Examples/how-to-apply-conditional-formatting-to-pivot-cells-t267344)
 * [How to Apply Conditional Formatting to the Card Dashboard Item](https://github.com/DevExpress-Examples/how-to-apply-conditional-formatting-to-the-card-dashboard-item)
 * [How to Apply Conditional Formatting to the Chart Dashboard Item](https://github.com/DevExpress-Examples/WinForms-Dashboard-How-to-Apply-Conditional-Formatting-to-the-Chart-Dashboard-Item)
-* [How to Highlight Data in a Scatter Chart Dashboard Item
-](https://github.com/DevExpress-Examples/WinForms-Dashboard-How-to-Highlight-Data-in-the-Scatter-Chart-Dashboard-Item)
+* [How to Highlight Data in a Scatter Chart Dashboard Item](https://github.com/DevExpress-Examples/WinForms-Dashboard-How-to-Highlight-Data-in-the-Scatter-Chart-Dashboard-Item)
