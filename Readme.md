@@ -12,8 +12,7 @@
 <!-- default file list end -->
 # Dashboard for WinForms - How to Apply Conditional Formatting to Grid Cells
 
-The following example demonstrates how to apply conditional formatting to Grid cells. 
-
+The following example shows how to apply conditional formatting to Grid cells. 
 
 ## Examples Structure
 
