@@ -87,7 +87,7 @@ The **Bar Color Ranges** format rule allows you to visualize numeric values usi
 
 The [FormatConditionColorRangeBar](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.FormatConditionColorRangeBar) class contains this format rule's settings.
 
-This form shows how to display colored bars within Grid cells. Click the **Update Formatting** button to change the number of ranges, specify new range boundaries and change colors mapped to ranges.
+This form shows how to display colored bars within Grid cells. Click the **Update Format Rule** button to change the number of ranges, specify new range boundaries and change colors mapped to ranges.
 
 ![RangeColorBarConditionForm](images/RangeColorBarConditionForm.png)
 
