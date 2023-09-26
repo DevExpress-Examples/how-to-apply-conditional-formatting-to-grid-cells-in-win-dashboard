@@ -8,8 +8,7 @@
 
 The following example shows how to apply conditional formatting to Grid cells. 
 
-<!-- default file list -->
-## Files to Look At
+## Files to Review
 
 * [ValueConditionForm.cs](./CS/Dashboard_ConditionalFormatting_Grid/ValueConditionForm.cs) (VB: [ValueConditionForm.vb](./VB/Dashboard_ConditionalFormatting_Grid/ValueConditionForm.vb))
 * [TopAverageConditionForm.cs](./CS/Dashboard_ConditionalFormatting_Grid/TopAverageConditionForm.cs) (VB: [TopAverageConditionForm.vb](./VB/Dashboard_ConditionalFormatting_Grid/TopAverageConditionForm.vb))
@@ -19,7 +18,6 @@ The following example shows how to apply conditional formatting to Grid cells.
 * [BarConditionForm.cs](./CS/Dashboard_ConditionalFormatting_Grid/BarConditionForm.cs) (VB: [BarConditionForm.vb](./VB/Dashboard_ConditionalFormatting_Grid/BarConditionForm.vb))
 * [RangeColorBarConditionForm.cs](./CS/Dashboard_ConditionalFormatting_Grid/RangeColorBarConditionForm.cs) (VB: [RangeColorBarConditionForm.vb](./VB/Dashboard_ConditionalFormatting_Grid/RangeColorBarConditionForm.vb))
 * [RangeGradientBarConditionForm.cs](./CS/Dashboard_ConditionalFormatting_Grid/RangeGradientBarConditionForm.cs) (VB: [RangeGradientBarConditionForm.vb](./VB/Dashboard_ConditionalFormatting_Grid/RangeGradientBarConditionForm.vb))
-<!-- default file list end -->
 
 ## Examples Structure
 
